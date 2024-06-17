@@ -1,0 +1,11 @@
+Test case 1 - zbir pozitivnih brojeva -  Passed
+Test case 2 - razlika pozitivnih brojeva - Passed
+Test case 3 - množenje pozitivnih brojeva - Passed
+Test case 4  - deljenje pozitivnih brojeva - Passed
+Test case 5 - množenje kada je drugi činilac negativan broj - Failed - Error
+Test case 6 - deljenje sa nulom - Failed - Infinity
+Test case 7 - množenje kada je prvi činilac negativan broj - Passed
+
+Uočeni problemi: 
+Pri množenju, kada je drugi činilac negativan broj, dobijamo "ERROR".
+Pri deljenju sa nulom, rezultat je "Infinity".
